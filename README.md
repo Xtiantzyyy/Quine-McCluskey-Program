@@ -1,4 +1,5 @@
 Quine-McCluskey Program - Python 3 Code
+
 Simplify Boolean expressions effortlessly with the Quine-McCluskey Method using this Python program. 
 Ideal for Logic Design, the code takes user inputs for variables (minterms or don't care terms) and applies the Quine-McCluskey method along with Petrick’s method to streamline Boolean expressions.
 
