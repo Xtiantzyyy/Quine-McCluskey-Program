@@ -15,7 +15,7 @@ Display Final Result:
 Sequentially display the final result.
 
 Screenshot of the Quine-McCluskey Program
-![image](https://github.com/Xtiantzyyy/Quine-McCluskey-Program/assets/87014015/0992f145-fce4-4769-bb86-b6a6186876b3)
 
+![image](https://github.com/Xtiantzyyy/Quine-McCluskey-Program/assets/87014015/0992f145-fce4-4769-bb86-b6a6186876b3)
 ![image](https://github.com/Xtiantzyyy/Quine-McCluskey-Program/assets/87014015/e7ae923b-efeb-47e9-8927-f6bd8462c691)
 
